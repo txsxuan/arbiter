@@ -1,0 +1,71 @@
+23:55:47:571 hack found. abnormal program termination
+23:55:47:567 hack sendmessage detected
+23:55:47:516 hack found. abnormal program termination
+23:55:47:511 hack sendmessage detected
+23:55:47:473 hack found. abnormal program termination
+23:55:47:470 hack sendmessage detected
+23:55:47:435 hack found. abnormal program termination
+23:55:47:431 hack sendmessage detected
+23:55:47:397 hack found. abnormal program termination
+23:55:47:394 hack sendmessage detected
+23:55:47:358 hack found. abnormal program termination
+23:55:47:352 hack sendmessage detected
+23:55:47:311 hack found. abnormal program termination
+23:55:47:307 hack sendmessage detected
+23:55:47:266 hack found. abnormal program termination
+23:55:47:264 hack sendmessage detected
+23:55:46:017 hack found. abnormal program termination
+23:55:46:012 hack sendmessage detected
+23:55:46:004 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+23:55:46:000 replay is correct (v.52)
+23:55:45:996 0.47 checksum is correct
+23:55:45:972 [0|14.4.2025.19:02:22:7777|14.19:02:27:9961|B19T6.18]
+23:55:32:478 replay load success
+23:55:32:469 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+23:55:32:464 replay is correct (v.52)
+23:55:32:457 0.47 checksum is correct
+23:55:32:435 [0|14.4.2025.17:59:52:2244|14.17:59:57:4476|B18T6.23]
+23:54:44:555 replay load success
+23:54:44:545 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+23:54:44:540 replay is correct (v.52)
+23:54:44:534 0.47 checksum is correct
+23:54:44:511 [0|14.4.2025.18:03:18:9940|14.18:03:23:3330|B15T5.39]
+23:54:22:572 replay load success
+23:54:22:567 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+23:54:22:565 replay is correct (v.52)
+23:54:22:559 0.47 checksum is correct
+23:54:22:538 [0|14.4.2025.15:27:30:9949|14.15:27:35:1111|B14T5.16]
+23:45:33:845 replay load success
+23:45:33:843 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+23:45:33:841 replay is correct (v.52)
+23:45:33:837 0.47 checksum is correct
+23:45:33:816 [0|15.4.2025.16:41:07:6625|15.16:41:11:7742|B13T5.12]
+23:45:07:172 replay load success
+23:45:07:162 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+23:45:07:159 replay is correct (v.52)
+23:45:07:154 0.47 checksum is correct
+23:45:07:133 [0|14.4.2025.15:25:35:8879|14.15:25:39:9908|B12T5.03]
+23:44:50:418 replay load success
+23:44:50:414 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+23:44:50:412 replay is correct (v.52)
+23:44:50:410 0.47 checksum is correct
+23:44:50:392 [0|14.4.2025.17:58:11:021|14.17:58:15:052|B12T5.03]
+23:44:36:247 replay load success
+23:44:36:242 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+23:44:36:222 replay is correct (v.52)
+23:44:36:216 0.47 checksum is correct
+23:44:36:196 [0|14.4.2025.15:25:35:8879|14.15:25:39:9908|B12T5.03]
+23:44:19:539 ---
+23:44:19:538 who of them got the skills to test me?
+23:44:19:537 ---
+23:44:19:536 warp field stabilized. opening gate to the minesweeper world
+23:44:19:535 encrypt_engine test ok
+23:44:19:535 encrypt_engine testing ...
+23:44:19:534 ---
+23:44:19:533 language  | 00000804
+23:44:19:532 timezone  | 中国标准时间 (GMT +8:00)
+23:44:19:531 platform  | Windows NT 6.2 build 9200, 
+23:44:19:531 memory    | 2047,0 of 2047,0 MB RAM free
+23:44:19:530 cpu speed | run the command get_cpu_speed
+23:44:19:529 date      | Fri, 18.04.2025, process 0x006912BC launched
+23:44:19:518 path      | E:\娱乐\ARBITER_0.52.3\

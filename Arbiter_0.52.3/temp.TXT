@@ -1,0 +1,105 @@
+; this is default counter template for Minesweeper Arbiter 0.49.3
+; format is easy:
+; * left part of line before "|" is the indicator caption
+; * right part is a single 
+; * if line is started with "#" then the formula part
+;   would be added like text to the formula part of
+;   previous indicator
+; * if line is started with "@" then the formula part
+;   would be added like a formula result to the formula part of
+;   previous indicator
+; * you can write up to 50 formulas. no sense to flood cpu more
+; * empty lines ignored
+; * lines that start with ";" are ignored
+; * lines that have wrong syntax are ignored too
+; ----------
+; *** header of template file ***
+; author: Dmitriy
+; template name: "default template"
+; language: English
+; version: 0.06
+;
+; *** begin of templates ***
+;
+;;; time
+; Time | TIME
+; realtime and +1 which are settings-independent:
+;Score | TIMERECORDERSTYLE
+;;; estimate
+;Est |TIMEEST
+; settings-independent versions:
+;Est Score |TIMEESTRECORDERSTYLE
+;;; board difficulty measures and correspoding speed
+; 3bv and Done 3bv in one indicator
+; 3bvs
+rt/est|  TIMEREAL
+#|/
+@|TIMEEST
+#|s~
+3bv|BBBVDONE
+#|/
+@|BBBV
+#|=
+@|BBBVDONE / BBBV*100
+#|%
+bvs|BBBVDONE/TIMEREAL{3}
+#|~
+qg/rqp|  TIMEEST^1.7 / BBBV{3}
+#|/
+@| TIMEEST*( TIMEEST+1) / BBBV{3)
+stnb/est| (73.5*(mode^2)-94.5*mode+57)/((TIMEESTREAL^1.7)/BBBV/((BBBVDONE/BBBV)^0.5)){2}
+#|/
+@|(73.5*(mode^2)-94.5*mode+57)/((TIMEESTREAL^1.7)/BBBV)
+Ops&Isls|OPENINGSDONE
+#|/
+@|OPENINGS
+#|&
+@|ISLANDS
+zini|GZINI
+#|@
+@|GZINI/TIMEESTREAL
+hzini|HZINI
+#|@
+@|HZINI/TIMEESTREAL
+;;; clicks
+l/r[fl]/d|LCLK
+#|/
+@|RCLK
+#|[
+@|FLAGSUSED
+#|]/
+@|DCLK
+cl/cls|TOTALCLK
+#|@
+@|TOTALCLK/TIMEREAL{3}
+ce/ces|TOTALEFF-MISFLAGS-UNFLAGS-MISUNFLAGS
+#|@
+@|(TOTALEFF-MISFLAGS-UNFLAGS-MISUNFLAGS)/TIMEREAL{3}
+;;; efficiency measures
+path/mov|PATH
+#|/
+@|PATH/16/TIMEREAL{2}
+sao|PATH/TIMEREAL/16*TOTALEFF/TIMEREAL{2}
+corr*thrp|(TOTALEFF-MISFLAGS-UNFLAGS-MISUNFLAGS)/TOTALCLK*100
+#|%*
+@|BBBVDONE/(TOTALEFF-MISFLAGS-UNFLAGS-MISUNFLAGS){3}
+ioe/iome|BBBVDONE/TOTALCLK{3}
+#|/
+@|BBBVDONE*16/PATH{3}
+; ZiNi efficiency
+;;; path
+;;; magic indices
+; they're supposed to measure quality of the game
+;;; ranks of current game
+; number of game of this mode
+ranks|RANKTIME
+#|/
+@|RANKBBBVS
+#|/
+@|RANKRQP
+games/rpi|TOTALGAMES
+#|/
+@|RPI
+#|%
+; *** end of template file ***
+;**************************************

@@ -1,0 +1,105 @@
+15:03:59:969 hack found. abnormal program termination
+15:03:59:961 hack sendmessage detected
+15:03:59:917 hack found. abnormal program termination
+15:03:59:913 hack sendmessage detected
+15:03:59:864 hack found. abnormal program termination
+15:03:59:861 hack sendmessage detected
+15:03:59:821 hack found. abnormal program termination
+15:03:59:818 hack sendmessage detected
+15:03:59:771 hack found. abnormal program termination
+15:03:59:766 hack sendmessage detected
+15:03:59:720 hack found. abnormal program termination
+15:03:59:713 hack sendmessage detected
+15:03:59:671 hack found. abnormal program termination
+15:03:59:666 hack sendmessage detected
+15:03:59:619 hack found. abnormal program termination
+15:03:59:615 hack sendmessage detected
+15:03:59:567 hack found. abnormal program termination
+15:03:59:561 hack sendmessage detected
+15:03:59:520 hack found. abnormal program termination
+15:03:59:518 hack sendmessage detected
+15:03:59:482 hack found. abnormal program termination
+15:03:59:480 hack sendmessage detected
+15:03:59:440 hack found. abnormal program termination
+15:03:59:437 hack sendmessage detected
+15:03:59:396 hack found. abnormal program termination
+15:03:59:391 hack sendmessage detected
+15:03:59:346 hack found. abnormal program termination
+15:03:59:343 hack sendmessage detected
+15:03:59:301 hack found. abnormal program termination
+15:03:59:297 hack sendmessage detected
+15:03:59:248 hack found. abnormal program termination
+15:03:59:244 hack sendmessage detected
+15:03:59:191 hack found. abnormal program termination
+15:03:59:189 hack sendmessage detected
+15:03:59:140 hack found. abnormal program termination
+15:03:59:137 hack sendmessage detected
+15:03:59:087 hack found. abnormal program termination
+15:03:59:084 hack sendmessage detected
+15:03:59:035 hack found. abnormal program termination
+15:03:59:034 hack sendmessage detected
+15:03:58:994 hack found. abnormal program termination
+15:03:58:990 hack sendmessage detected
+15:03:58:947 hack found. abnormal program termination
+15:03:58:946 hack sendmessage detected
+15:03:58:901 hack found. abnormal program termination
+15:03:58:899 hack sendmessage detected
+15:03:58:855 hack found. abnormal program termination
+15:03:58:849 hack sendmessage detected
+15:03:58:805 hack found. abnormal program termination
+15:03:58:803 hack sendmessage detected
+15:03:58:752 hack found. abnormal program termination
+15:03:58:747 hack sendmessage detected
+15:03:58:692 hack found. abnormal program termination
+15:03:58:690 hack sendmessage detected
+15:03:58:642 hack found. abnormal program termination
+15:03:58:639 hack sendmessage detected
+15:03:58:598 hack found. abnormal program termination
+15:03:58:596 hack sendmessage detected
+15:03:58:550 hack found. abnormal program termination
+15:03:58:548 hack sendmessage detected
+15:03:58:503 hack found. abnormal program termination
+15:03:58:497 hack sendmessage detected
+15:03:58:455 hack found. abnormal program termination
+15:03:58:448 hack sendmessage detected
+15:03:58:407 hack found. abnormal program termination
+15:03:58:401 hack sendmessage detected
+15:03:58:354 hack found. abnormal program termination
+15:03:58:351 hack sendmessage detected
+15:03:58:310 hack found. abnormal program termination
+15:03:58:307 hack sendmessage detected
+15:03:58:253 hack found. abnormal program termination
+15:03:58:247 hack sendmessage detected
+15:03:58:168 hack found. abnormal program termination
+15:03:58:166 hack sendmessage detected
+15:03:58:116 hack found. abnormal program termination
+15:03:58:112 hack sendmessage detected
+15:03:58:070 hack found. abnormal program termination
+15:03:58:067 hack sendmessage detected
+15:03:57:124 hack found. abnormal program termination
+15:03:57:123 hack sendmessage detected
+15:03:57:121 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+15:03:57:120 replay is correct (v.52)
+15:03:57:118 0.47 checksum is correct
+15:03:56:845 [2|2.5.2025.23:33:21:2232|2.23:34:23:3304|HS|B178T63.07]
+15:01:35:527 replay load success
+15:01:35:525 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+15:01:35:524 replay is correct (v.52)
+15:01:35:522 0.47 checksum is correct
+15:01:35:265 [2|3.5.2025.14:57:36:056|3.14:58:39:3342|B162T64.28]
+14:58:44:334 preview replay load success
+14:58:44:331 preview replay
+14:51:22:620 ---
+14:51:22:619 who of them got the skills to test me?
+14:51:22:617 ---
+14:51:22:617 warp field stabilized. opening gate to the minesweeper world
+14:51:22:616 encrypt_engine test ok
+14:51:22:616 encrypt_engine testing ...
+14:51:22:615 ---
+14:51:22:614 language  | 00000804
+14:51:22:613 timezone  | 中国标准时间 (GMT +8:00)
+14:51:22:612 platform  | Windows NT 6.2 build 9200, 
+14:51:22:612 memory    | 2047,0 of 2047,0 MB RAM free
+14:51:22:611 cpu speed | run the command get_cpu_speed
+14:51:22:610 date      | Sat, 03.05.2025, process 0x002009DC launched
+14:51:22:605 path      | E:\娱乐\ARBITER_0.52.3\

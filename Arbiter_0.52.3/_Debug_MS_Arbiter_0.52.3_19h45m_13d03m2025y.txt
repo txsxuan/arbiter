@@ -1,0 +1,17 @@
+19:45:38:513 hack found. abnormal program termination
+19:45:38:511 weird time
+19:43:16:453 high score replay automatically saved
+19:32:18:825 ---
+19:32:18:825 who of them got the skills to test me?
+19:32:18:824 ---
+19:32:18:823 warp field stabilized. opening gate to the minesweeper world
+19:32:18:822 encrypt_engine test ok
+19:32:18:822 encrypt_engine testing ...
+19:32:18:821 ---
+19:32:18:819 language  | 00000804
+19:32:18:819 timezone  | 中国标准时间 (GMT +8:00)
+19:32:18:819 platform  | Windows NT 6.2 build 9200, 
+19:32:18:818 memory    | 2047,0 of 2047,0 MB RAM free
+19:32:18:817 cpu speed | run the command get_cpu_speed
+19:32:18:816 date      | Thu, 13.03.2025, process 0x00250F60 launched
+19:32:18:811 path      | E:\娱乐\ARBITER_0.52.3\

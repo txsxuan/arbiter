@@ -1,0 +1,52 @@
+00:08:32:695 hack found. abnormal program termination
+00:08:32:694 hack sendmessage detected
+00:08:32:684 hack found. abnormal program termination
+00:08:32:683 hack sendmessage detected
+00:08:32:675 hack found. abnormal program termination
+00:08:32:674 hack sendmessage detected
+00:08:32:665 hack found. abnormal program termination
+00:08:32:664 hack sendmessage detected
+00:08:32:654 hack found. abnormal program termination
+00:08:32:653 hack sendmessage detected
+00:08:32:642 hack found. abnormal program termination
+00:08:32:642 hack sendmessage detected
+00:08:32:630 hack found. abnormal program termination
+00:08:32:628 hack sendmessage detected
+00:08:32:617 hack found. abnormal program termination
+00:08:32:615 hack sendmessage detected
+00:08:32:593 hack found. abnormal program termination
+00:08:32:591 hack sendmessage detected
+00:08:32:562 hack found. abnormal program termination
+00:08:32:558 hack sendmessage detected
+00:08:32:525 hack found. abnormal program termination
+00:08:32:524 hack sendmessage detected
+00:08:30:893 hack found. abnormal program termination
+00:08:30:891 hack sendmessage detected
+00:08:30:887 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+00:08:30:886 replay is correct (v.52)
+00:08:30:883 0.47 checksum is correct
+00:08:30:809 [2|16.2.2025.23:27:39:3367|16.23:28:44:9956|B150T66.59]
+00:08:19:348 replay load success
+00:08:19:346 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+00:08:19:345 replay is correct (v.52)
+00:08:19:343 0.47 checksum is correct
+00:08:19:269 [2|16.2.2025.23:44:10:9978|16.23:45:16:7747|B127T66.77]
+00:07:29:984 close preferences window
+00:07:29:984 preferences applied
+00:07:29:981 preferences loaded
+00:07:29:817 preferences saved
+00:07:24:285 counters template file loaded
+00:06:13:783 ---
+00:06:13:781 who of them got the skills to test me?
+00:06:13:781 ---
+00:06:13:781 warp field stabilized. opening gate to the minesweeper world
+00:06:13:780 encrypt_engine test ok
+00:06:13:779 encrypt_engine testing ...
+00:06:13:779 ---
+00:06:13:778 language  | 00000804
+00:06:13:778 timezone  | 中国标准时间 (GMT +8:00)
+00:06:13:778 platform  | Windows NT 6.2 build 9200, 
+00:06:13:777 memory    | 2047,0 of 2047,0 MB RAM free
+00:06:13:777 cpu speed | run the command get_cpu_speed
+00:06:13:776 date      | Mon, 17.02.2025, process 0x00080A52 launched
+00:06:13:771 path      | E:\娱乐\ARBITER_0.52.3\
