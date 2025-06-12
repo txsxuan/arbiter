@@ -1,6 +1,6 @@
 ;Minesweeper Arbiter (Version 0.52.3)
 ;Configuration File
-;Saved Tue, 10 jun 2025 at 21_08_33
+;Saved Thu, 12 jun 2025 at 19_01_10
 ;Read-only! Manual edition prohibited!
 
 [GLOBALS]
@@ -15,10 +15,10 @@ TextHistorySaveWins=0
 TextHistorySaveBlasts=0
 TextHistorySaveF2s=0
 LastPath="F:\ARBITER\ARBITER_0.52.3\"
-posMainX=594
-posMainY=339
-posCountersX=233
-posCountersY=379
+posMainX=696
+posMainY=347
+posCountersX=179
+posCountersY=430
 posProgressBarX=131
 posProgressBarY=119
 posHistX=0
@@ -57,7 +57,7 @@ CustomTimeZone=0
 CursorFileName=
 
 [GAME STYLE]
-doStartUpMode=2
+doStartUpMode=0
 skinNumber=0
 skinTimerNumber=0
 doMarks=0
