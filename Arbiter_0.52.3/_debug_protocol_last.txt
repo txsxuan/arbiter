@@ -1,15 +1,15 @@
-16:40:56:934 preferences saved
-16:40:52:391 ---
-16:40:52:390 who of them got the skills to test me?
-16:40:52:388 ---
-16:40:52:386 warp field stabilized. opening gate to the minesweeper world
-16:40:52:385 encrypt_engine test ok
-16:40:52:384 encrypt_engine testing ...
-16:40:52:384 ---
-16:40:52:383 language  | 00000804
-16:40:52:381 timezone  | 中国标准时间 (GMT +8:00)
-16:40:52:380 platform  | Windows NT 6.2 build 9200, 
-16:40:52:379 memory    | 2047,0 of 2047,0 MB RAM free
-16:40:52:379 cpu speed | run the command get_cpu_speed
-16:40:52:378 date      | Mon, 07.07.2025, process 0x00021F00 launched
-16:40:52:372 path      | F:\ARBITER\ARBITER_0.52.3\
+19:36:03:741 preferences saved
+19:36:02:382 ---
+19:36:02:381 who of them got the skills to test me?
+19:36:02:380 ---
+19:36:02:380 warp field stabilized. opening gate to the minesweeper world
+19:36:02:379 encrypt_engine test ok
+19:36:02:379 encrypt_engine testing ...
+19:36:02:378 ---
+19:36:02:377 language  | 00000804
+19:36:02:376 timezone  | 中国标准时间 (GMT +8:00)
+19:36:02:375 platform  | Windows NT 6.2 build 9200, 
+19:36:02:374 memory    | 2047,0 of 2047,0 MB RAM free
+19:36:02:374 cpu speed | run the command get_cpu_speed
+19:36:02:373 date      | Sun, 20.07.2025, process 0x0005139C launched
+19:36:02:370 path      | E:\ARBITER\ARBITER_0.52.3\

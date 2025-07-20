@@ -1,0 +1,87 @@
+01:27:59:975 hack found. abnormal program termination
+01:27:59:968 hack sendmessage detected
+01:27:59:908 hack found. abnormal program termination
+01:27:59:904 hack sendmessage detected
+01:27:59:854 hack found. abnormal program termination
+01:27:59:851 hack sendmessage detected
+01:27:59:802 hack found. abnormal program termination
+01:27:59:800 hack sendmessage detected
+01:27:59:748 hack found. abnormal program termination
+01:27:59:745 hack sendmessage detected
+01:27:59:686 hack found. abnormal program termination
+01:27:59:682 hack sendmessage detected
+01:27:59:586 hack found. abnormal program termination
+01:27:59:583 hack sendmessage detected
+01:27:59:522 hack found. abnormal program termination
+01:27:59:518 hack sendmessage detected
+01:27:59:463 hack found. abnormal program termination
+01:27:59:461 hack sendmessage detected
+01:27:59:412 hack found. abnormal program termination
+01:27:59:409 hack sendmessage detected
+01:27:59:276 hack found. abnormal program termination
+01:27:59:272 hack sendmessage detected
+01:27:59:092 hack found. abnormal program termination
+01:27:59:088 hack sendmessage detected
+01:27:58:947 hack found. abnormal program termination
+01:27:58:942 hack sendmessage detected
+01:27:58:808 hack found. abnormal program termination
+01:27:58:805 hack sendmessage detected
+01:27:58:653 hack found. abnormal program termination
+01:27:58:649 hack sendmessage detected
+01:27:58:495 hack found. abnormal program termination
+01:27:58:491 hack sendmessage detected
+01:27:58:330 hack found. abnormal program termination
+01:27:58:325 hack sendmessage detected
+01:27:58:154 hack found. abnormal program termination
+01:27:58:149 hack sendmessage detected
+01:27:57:970 hack found. abnormal program termination
+01:27:57:963 hack sendmessage detected
+01:27:57:765 hack found. abnormal program termination
+01:27:57:759 hack sendmessage detected
+01:27:57:597 hack found. abnormal program termination
+01:27:57:591 hack sendmessage detected
+01:27:57:426 hack found. abnormal program termination
+01:27:57:415 hack sendmessage detected
+01:27:57:285 hack found. abnormal program termination
+01:27:57:275 hack sendmessage detected
+01:27:57:125 hack found. abnormal program termination
+01:27:57:116 hack sendmessage detected
+01:27:56:964 hack found. abnormal program termination
+01:27:56:962 hack sendmessage detected
+01:27:55:292 hack found. abnormal program termination
+01:27:55:289 hack sendmessage detected
+01:27:55:287 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+01:27:55:282 replay is correct (v.52)
+01:27:55:277 0.47 checksum is correct
+01:27:55:248 [0|16.7.2025.01:27:27:1174|16.01:27:30:6630|HS|B13T4.46]
+01:27:30:684 high score replay automatically saved
+01:20:10:726 memory_usage: [01:20] 2147483647 ==> used 0
+01:20:10:723 beginner mode selected
+01:19:07:105 memory_usage: [01:19] 2147483647 ==> used 0
+01:19:07:103 intermediate mode selected
+01:16:31:585 high score replay automatically saved
+01:11:02:493 memory_usage: [01:11] 2147483647 ==> used 0
+01:11:02:492 beginner mode selected
+00:57:57:998 memory_usage: [00:57] 2147483647 ==> used 0
+00:57:57:996 intermediate mode selected
+23:50:04:911 weird time
+23:18:53:292 preview replay load success
+23:18:53:246 preview replay
+22:50:05:598 preview replay load success
+22:50:05:593 preview replay
+22:36:02:561 weird time
+22:32:47:759 weird time
+21:38:18:483 ---
+21:38:18:482 who of them got the skills to test me?
+21:38:18:481 ---
+21:38:18:479 warp field stabilized. opening gate to the minesweeper world
+21:38:18:478 encrypt_engine test ok
+21:38:18:477 encrypt_engine testing ...
+21:38:18:475 ---
+21:38:18:474 language  | 00000804
+21:38:18:466 timezone  | 中国标准时间 (GMT +8:00)
+21:38:18:465 platform  | Windows NT 6.2 build 9200, 
+21:38:18:464 memory    | 2047,0 of 2047,0 MB RAM free
+21:38:18:462 cpu speed | run the command get_cpu_speed
+21:38:18:460 date      | Tue, 15.07.2025, process 0x0003265A launched
+21:38:18:444 path      | E:\ARBITER\ARBITER_0.52.3\
