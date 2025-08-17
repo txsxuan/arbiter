@@ -1,15 +1,20 @@
-19:36:03:741 preferences saved
-19:36:02:382 ---
-19:36:02:381 who of them got the skills to test me?
-19:36:02:380 ---
-19:36:02:380 warp field stabilized. opening gate to the minesweeper world
-19:36:02:379 encrypt_engine test ok
-19:36:02:379 encrypt_engine testing ...
-19:36:02:378 ---
-19:36:02:377 language  | 00000804
-19:36:02:376 timezone  | 中国标准时间 (GMT +8:00)
-19:36:02:375 platform  | Windows NT 6.2 build 9200, 
-19:36:02:374 memory    | 2047,0 of 2047,0 MB RAM free
-19:36:02:374 cpu speed | run the command get_cpu_speed
-19:36:02:373 date      | Sun, 20.07.2025, process 0x0005139C launched
-19:36:02:370 path      | E:\ARBITER\ARBITER_0.52.3\
+16:47:07:810 preferences saved
+16:44:40:659 replay load success
+16:44:40:657 mouse_type: none - type <mouse>[mouse_type] in the User ID Text
+16:44:40:656 replay is correct (v.52)
+16:44:40:654 0.47 checksum is correct
+16:44:40:352 [2|17.8.2025.13:27:49:047|17.13:28:56:7727|B200T68.68]
+16:44:27:683 ---
+16:44:27:682 who of them got the skills to test me?
+16:44:27:681 ---
+16:44:27:680 warp field stabilized. opening gate to the minesweeper world
+16:44:27:680 encrypt_engine test ok
+16:44:27:679 encrypt_engine testing ...
+16:44:27:678 ---
+16:44:27:678 language  | 00000804
+16:44:27:676 timezone  | 中国标准时间 (GMT +8:00)
+16:44:27:676 platform  | Windows NT 6.2 build 9200, 
+16:44:27:675 memory    | 2047,0 of 2047,0 MB RAM free
+16:44:27:674 cpu speed | run the command get_cpu_speed
+16:44:27:674 date      | Sun, 17.08.2025, process 0x0005226A launched
+16:44:27:669 path      | E:\ARBITER\ARBITER_0.52.3\
